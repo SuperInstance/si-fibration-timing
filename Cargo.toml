@@ -1,0 +1,7 @@
+[package]
+name = "si-fibration-timing"
+version = "0.1.0"
+edition = "2021"
+description = "Fiber bundles model timing channels in concurrent agent systems"
+
+[dependencies]
